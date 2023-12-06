@@ -1,20 +1,17 @@
-body{font-size : 16px;
-}
+body{ font-size: 16px;}
 
-.pricipal{background-color: gray;text-align: center;
-text-align: center; }
+.principal{background-color: grey;
+    text-align: center;}
 
+.negrito{color: red;}
 
-.negrito {color: red;}
+.benefício{text-align: center;}
 
-
-.beneficio{text-align: center;}
-.imagem{width: 100%;}
-.imagem-beneficio{width: 50%;}
+.imagem-beneficios{width: 50%;}
 
 .imagem{width: 100%;}
 
-.titulo{ padding: 20px;}
+.título{padding: 20px;}
 
-.lista{ display: inline-block;
+.lista{display: inline-block;
 vertical-align: top;}
